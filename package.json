@@ -1,0 +1,16 @@
+{
+  "name": "rx-operations",
+  "version": "1.0.0",
+  "description": "Just some rx operations so i wont forget them and rethink it out",
+  "main": "index.js",
+  "scripts": {
+    "suspension": "node suspension.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "rxjs": "^5.5.6"
+  }
+}
